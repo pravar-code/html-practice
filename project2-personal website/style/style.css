@@ -17,7 +17,7 @@ h1{
 }
 
 hr{
-    margin: 2rem 0;
+    margin: 3rem 0;
 }
 
 h2{
@@ -84,11 +84,29 @@ h3 , a{
 .skill-row{
     width: 50%;
     margin: 0 auto;
+    margin-bottom: 2rem;
 
 }
 
 .Designer{
     width: 30%;
+    float: right;
+    margin-left: 1rem;
+    padding: 2rem;
+    margin-top: -4rem;
 }
+
+.dev-img{
+    float: left;
+    margin-right: 2rem;
+}
+
+.footer-link{
+    margin: 2rem ;
+
+}
+
+
+
 
 
